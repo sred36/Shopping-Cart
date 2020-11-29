@@ -83,7 +83,7 @@ button:hover {
         height: 50px;
 }
 .cart__item button,.cart__item input {
-    width: 100px;
+    width: 50px;
     height: 50px;
 }
 .cart__item input {
@@ -92,10 +92,15 @@ button:hover {
 .cart__item {
     text-align: center;
     margin-bottom: 0.625rem;
+    position: relative;
 }
 .remove {
-    font-size: 1.875rem;
+    font-size: 1.25rem;
     font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    top: 20px;
+    right: 20%;
     cursor: pointer;
 }
 .grid__total {
