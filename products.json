@@ -1,0 +1,54 @@
+{
+"products" : [
+    {
+        "id": 1,
+        "title": "Men's T-Shirt",
+        "image": 'One',
+        "description": 'A comfortable and stylish t-shirt for men.',
+        "availableSizes": ['S', 'M', 'L', 'XL'],
+        "price": '$19.99',
+        "seeMore": ['Two', 'Three', 'Four'],
+        "swatchColor": 'green-small'
+    },
+    {
+        "id": 2,
+        "title": "Women's Dress",
+        "image": 'Two',
+        "description": 'A fashionable dress for women, perfect for any occasion.',
+        "availableSizes": ['S', 'M', 'L'],
+        "price": '$39.99',
+        "seeMore": ['Five', 'Three', 'Four'],
+        "swatchColor": 'blue'
+    },
+    {
+        "id": 3,
+        "title": "Kids' Hoodie",
+        "image": 'Three',
+        "description": 'A cozy hoodie for kids, great for chilly days.',
+        "availableSizes": ['XS', 'S', 'M', 'L'],
+        "price": '$29.99',
+        "seeMore": ['Two', 'Five', 'Four'],
+        "swatchColor": 'blue'
+    },
+    {
+        "id": 4,
+        "title": 'Unisex Sneakers',
+        "image": 'Six',
+        "description": 'Stylish and comfortable sneakers for everyone.',
+        "availableSizes": ['6', '7', '8', '9', '10'],
+        "price": '$49.99',
+        "seeMore": ['Two', 'Three', 'One'],
+        "swatchColor": 'sky-small'
+    },
+    {
+        "id": 5,
+        "title": "Men's Jeans",
+        "image": 'Five',
+        "description": 'Classic denim jeans for men, versatile and durable.',
+        "availableSizes": ['30', '32', '34', '36'],
+        "price": '$39.99',
+        "seeMore": ['Two', 'Three', 'One'],
+        "swatchColor": "red-small"
+    }
+]
+}
